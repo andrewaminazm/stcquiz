@@ -1,7 +1,7 @@
 # README #
 
 ## Introduction
-purpose of that project to make e2e test for  web platform of mail to test all functionality
+purpose of that project to make e2e test for  web platform of  to test all functionality
 
 ## Prerequisites
 operating systems:
