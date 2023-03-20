@@ -41,7 +41,7 @@ module.exports = defineConfig({
     overwrite: false,
     html: true,
     json: false,
-    reportTitle: 'The Login Feature',
+    reportTitle: 'quiz',
     embeddedScreenshots: true,
     overwrite: true,
     screenshotOnRunFailure: true      
