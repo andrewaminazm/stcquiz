@@ -28,7 +28,7 @@ To install Cypress using the npm (Node package manager) navigate to the project 
 npm init
 #Once done, run the command below to install Cypress#.
 
-npm install cypress@10.11.0
+npm install c
 
 then 
 run
